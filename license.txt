@@ -1,4 +1,4 @@
-The UTP License (MIT)
+The UTP License (UTP)
 
 Copyright (c) 2014 - 2015, British Columbia Institute of Technology
 
